@@ -151,7 +151,7 @@ ggplot(toronto_Crisis_clean, aes(x=event_hour, y=event_type)) +
 ```
 
 Figure 2 is a box plot ，titled “distriution of event hour by event name” .It describes the spread and central tendency of the hours at which different types of events occur. For the x-axis, it labeld "Event Hour" which ranges from 0 to approximately 25, indicating the hours of the day when events happened. The y-axis is labeled “Event type, which appears to represent different types of events or categories such as "Suicide-related", "Person in Crisis", and "Overdose".Within the box, a horizontal line represents the median, marking the data's middle value. The breadth of the boxes along with the whiskers' reach illustrates the range in hours attributed to each event type. The chart indicates that "Person in Crisis" events generally have a higher median duration, discernible by the median line's position near the upper quartile. While the distributions for "Suicide-related" and "Overdose" events are closely aligned, the median for "Overdose" events appears to be subtly less than that for "Suicide-related" events.This information is vital for emergency service planning and allocation of support for crisis management teams.
-
+ 
 
 
 # Discussion
