@@ -119,8 +119,8 @@ ggplot(advanced_table, aes(x = event_year, y = Count, fill = event_type)) +
 \newpage 
 
 Figure 1 demonstrates a time series analysis of crisis event frequencies in Toronto, segmented into three principal categories: "Overdose," "Person in Crisis," and "Suicide-related" occurrences. "People in crisis" is the most common type of crisis incident each year, possessing the most significant trend. This trend may reflect an escalating demand for mental health support and crisis intervention resources. The yellow section represents overdose incidents, which, although a small percentage of the population, have been on a consistent upward trend. It could indicate evolving substance use patterns or the efficacy of public health strategies. While "Suicide-related" incidents demonstrate a relatively stable pattern, they show some minor fluctuations in 2019. It is worth noting that the overall frequency of all types of crisis events seems to peak in particular years. For example, during the emergence of COVID-19, the number of people in each of these three types has increased to varying degrees. The economic downturn and increased social pressure caused by the epidemic have led citizens to take some harmful drastic actions. In addition, we can also attribute this result to the abuse of opioids, mainly in the North American region. The pandemic has exacerbated ongoing problems. These insights call for proactive and flexible public health policies to navigate the fluctuating landscape of urban crisis management adeptly.
+ 
 
-. 
 \newpage
 
 
