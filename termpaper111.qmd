@@ -95,7 +95,7 @@ linesep = "", digits = 1, booktabs=TRUE) %>%
 
 
 ```
-
+ 
 Table 2 was created based on the data from cleaned_toronto_Crisis.csv .It provides a summary of 'Persons in Crisis' calls for service attended. It is segmented by year, starting from 2014 to the latest year. Also, there is a corresponding count of the number of times that event was recorded for each year and each type. The table helps to see trends over time regarding the frequency of different kinds of crisis events and makes it easier to create a graph.
 
  
