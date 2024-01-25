@@ -27,7 +27,7 @@ install.packages("opendatatoronto")
 ```
 
 \newpage
-   
+    
 # Introduction
 
   In the bustling urban landscape of Toronto, the increasing number of "Persons in Crisis" (PIC) call incidents has been observed, reflecting the intricate challenges of city life and the growing mental health concerns among its citizens. This study looks deeply into these PIC calls by delving into their spread, frequency, and impact on Toronto's residents. Spanning a decade from 2014 to 2024, the research draws on data from the "toronto_Crisis.csv" dataset, aiming to unearth essential insights for managing urban crises effectively. The research uses detailed, data-focused methods and tools like R[@citeR] programming and packages including “tidyverse,” [@citetidyverse]“dplyr,” [@citedplyr] “janitor,”[@citejanitor]“kableExtra,”[@citekableExtra]“lubricate,”[@citelubricate] and “knitr”[@citeknitr].This approach facilitates a detailed examination and presentation of the data. The data set from the Toronto Open Data Portal[@citedata] covers a wide variety of crises, including suicide attempts, people in crisis, and drug overdoses. Analysis of this data is critical to discern underlying patterns and trends in crisis calls, providing a valuable tool for policymakers and emergency services to develop more effective crisis response strategies.
